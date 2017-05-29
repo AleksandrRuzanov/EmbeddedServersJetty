@@ -1,0 +1,6 @@
+2017-05-25 19:03:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "DEPARTMENT" not found; SQL statement:
+SELECT * FROM Department [42102-195]
+2017-05-25 19:04:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "DEPARTMENT" not found; SQL statement:
+SELECT * FROM Department [42102-195]
